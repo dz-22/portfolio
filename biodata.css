@@ -1,0 +1,44 @@
+
+.HEADER
+{
+    
+    display: flex;
+    font:arial;
+    font-size: 75px;
+    text-align: center;
+    background-color: rgb(89, 55, 36);
+    color: bisque;
+    border: 10px;
+    align-items: center;
+    
+}
+
+.BODY
+{
+    background-image: url('./images/back.jpg');
+    opacity: 80%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100% ;
+}
+#TEXT
+{
+    color:rgb(65, 55, 41);
+    font-size: large;
+    font:arial;
+
+}
+
+#TEXT1
+{
+    color:rgb(62, 45, 25);
+    font-size: xx-large;
+    text-align: center;
+    
+}
+
+.para
+{
+    display: flex;
+    justify-content: center;
+}
